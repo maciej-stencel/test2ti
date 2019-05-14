@@ -1,3 +1,5 @@
 <?php
 
-echo 'Witaj świecie!';
+echo 'Witaj Świecie!';
+
+$y = 10;
